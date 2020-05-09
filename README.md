@@ -4,4 +4,3 @@ This repository contains supplementary material for the paper 'BRIDGE an open pl
 
 For further details see the data, workflows and tools subfolders. 
 
-- [ ] TODO Zenodo or ZivaHub DOI
