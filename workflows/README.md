@@ -8,6 +8,6 @@ This directory contains Galaxy workflows for the paper.
 
 - ST3Gal-I ABFE and RBFE simulation and analysis:
   - RBFE_workflow.ga
-  - [ ] ABFE
+  - ABFE_workflow.ga
 
 
